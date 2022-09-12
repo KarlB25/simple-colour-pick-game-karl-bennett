@@ -1,0 +1,21 @@
+{
+  "name": "simple-colour-pick-game-karl-bennett",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/pixi.js": "^5.0.0",
+    "express": "^4.18.1",
+    "pixi.js": "^6.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.16"
+  }
+}

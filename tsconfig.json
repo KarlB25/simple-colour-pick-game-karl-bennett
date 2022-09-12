@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "ES6",
+        "lib": ["ES6", "dom"],
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "strictNullChecks": false,
+        "types": [],
+        "noEmit": true,
+        "checkJs": true,
+        "forceConsistentCasingInFileNames": true,
+        "moduleResolution": "Node",
+    },
+    "files": ["pixi.js.d.ts", "pixi.js-tests.ts"],
+    "include": ["js/*.js"]
+}
